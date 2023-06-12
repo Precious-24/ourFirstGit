@@ -10,3 +10,5 @@ func sum(_ num1: Int, _ num2: Int) -> Int {
 }
 
 print(sum(10,15))
+
+print("We have staged and commited")
