@@ -12,3 +12,9 @@ func sum(_ num1: Int, _ num2: Int) -> Int {
 print(sum(10,15))
 
 print("We have staged and commited")
+
+func mult(_ num1: Int, _ num2: Int) -> Int {
+    num1 * num2
+}
+
+print(mult(10, 25))
